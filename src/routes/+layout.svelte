@@ -8,6 +8,8 @@
 	import FabButton from "$lib/components/buttons/Fab/index.svelte";
 
 	let { children } = $props();
+
+	export const ssr = false;
 </script>
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
