@@ -1,0 +1,26 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"hello_world": "Hello, {name} from en!",
+
+	"home_page": {
+		"intro_p": "Game development, media creation with heart and love.",
+
+		"section_team_title": "Our team",
+		"team_p": "Our team is full of talent people that love games and media in general. Here we realize of various creators dreams who want to take of the paper your ideas. Exited to do the same?",
+		"calling_p": "Come join our team and let's make your dream come true!"
+	},
+
+	"common": {
+		"home_page": "Home Page",
+		"about_page": "About us",
+		"contact_page": "Contact us",
+		"join_us": "Join us",
+		"team": "Team"
+	},
+
+	"validation": {
+		"text": {
+			"not_valid": "Text is not valid"
+		}
+	}
+}

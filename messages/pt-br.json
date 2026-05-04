@@ -1,0 +1,26 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"hello_world": "Olá, {name} de pt-br!",
+
+	"home_page": {
+		"intro_p": "Desenvolvimento de jogos, criação de mídia com coração e amor.",
+
+		"section_team_title": "Nosso time",
+		"team_p": "Nosso time é repleto de pessoas talentosas que amam jogos e mídias no geral. Aqui realizamos sonhos de vários criadores que querem tirar do papel todas suas ideias. Animado para fazer o mesmo?",
+		"calling_p": "Venha se juntar ao nosso time e vamos tornar seus sonhos uma realidade!"
+	},
+
+	"common": {
+		"home_page": "Página Principal",
+		"about_page": "Sobre nós",
+		"contact_page": "Contato",
+		"join_us": "Junte-se a nós",
+		"team": "Time"
+	},
+
+	"validation": {
+		"text": {
+			"not_valid": "Texto não é válido"
+		}
+	}
+}

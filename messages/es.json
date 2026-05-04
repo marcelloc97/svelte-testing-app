@@ -1,0 +1,26 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"hello_world": "Hola, {name} de es!",
+
+	"home_page": {
+		"intro_p": "Desarrollo de videojuegos, creación de contenido multimedia con pasión y amor.",
+
+		"section_team_title": "Nuestro equipo",
+		"team_p": "Nuestro equipo está formado por personas con mucho talento a las que les apasionan los videojuegos y los medios de comunicación en general. Aquí hacemos realidad los sueños de creadores que quieren plasmar sus ideas en papel. ¿Te animas a hacer lo mismo?",
+		"calling_p": "¡Únete a nuestro equipo y hagamos realidad tu sueño!"
+	},
+
+	"common": {
+		"home_page": "Página de inicio",
+		"about_page": "Sobre nosotros",
+		"contact_page": "Contacta con nosotros",
+		"join_us": "Únete a nosotros",
+		"team": "Equipo"
+	},
+
+	"validation": {
+		"text": {
+			"not_valid": "El texto no es válido"
+		}
+	}
+}
